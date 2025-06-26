@@ -15,7 +15,7 @@ Experiment 2 and Experiment 3:
   - NBDA (Network-Based Diffusion Analysis)
 
 Experiment 4:
-  - Regression analysis.
+  - Regression analysis
 
 You can also explore the folders structure to understand how the data was organized.
 
